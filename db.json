@@ -1,9 +1,8 @@
 {
-  "user" :[
+  "user" :
     {
       "version": "1.0.0",
       "action": "Continue",
       "position": "6384c9b9678cc3c65ca9b428"
-    }
-  ]
+    }  
 }
